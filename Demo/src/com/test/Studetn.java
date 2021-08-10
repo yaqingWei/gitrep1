@@ -5,4 +5,6 @@ package com.test;
  * @create 2021-08-10 20:17
  */
 public class Studetn {
+    private Integer age;
+    private String name;
 }
