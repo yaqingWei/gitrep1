@@ -6,4 +6,5 @@ package com.test;
  */
 public class Teacher {
     private String name;
+    private Double salary;
 }
